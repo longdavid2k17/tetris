@@ -8,6 +8,7 @@ class QLCDNumber;
 class QLabel;
 class QPushButton;
 QT_END_NAMESPACE
+class plansza;
 
 class okno : public QWidget
 {

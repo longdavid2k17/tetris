@@ -31,7 +31,8 @@ SOURCES += \
 HEADERS += \
         mainwindow.h \
     klocek.h \
-    okno.h
+    okno.h \
+    plansza.h
 
 FORMS += \
         mainwindow.ui
